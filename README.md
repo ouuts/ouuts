@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @ouuts
-- 👀 I’m interested in codding, making apps
-- 🌱 I’m currently learning JavaScript.
 - 📫 Im only learning and making things on my free time.
